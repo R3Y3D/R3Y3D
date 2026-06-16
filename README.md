@@ -60,6 +60,8 @@
     "Microsoft AI Skills Fest Certifications",
     "Cisco Ethical Hacking",
     "Palo Alto Cloud Security Fundamentals"
+    "Palo Alto Networks Certified Cybersecurity Apprentice"
+    "Palo Alto Networks Certified Cybersecurity Practicioner"
   ],
   "learning_velocity": "High 🚀"
 }
