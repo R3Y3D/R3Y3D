@@ -1,6 +1,14 @@
-<!-- HEADER BANNER -->
+<!-- CYBER TERMINAL BOOT BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052cc&height=200&section=header&text=IBRAHIM%20MAHBUB&fontSize=65&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
+<pre align="center" style="font-family: monospace; font-weight: bold; color: #0052cc; background: #0d1117; padding: 15px; border-radius: 5px; border: 1px solid #0052cc;">
+ ██████╗  ██████╗ ██╗   ██╗███████╗██████╗ 
+ ██╔══██╗╚════██╗╚██╗ ██╔╝██╔════╝██╔══██╗
+ ██████╔╝ █████╔╝ ╚████╔╝ █████╗  ██║  ██║
+ ██╔══██╗ ╚═══██╗  ╚██╔╝  ██╔══╝  ██║  ██║
+ ██║  ██║██████╔╝   ██║   ███████╗██████╔╝
+ ╚═╝  ╚═╝╚═════╝    ╚═╝   ╚══════╝╚═════╝ 
+ [ SYSTEM STATUS: SECURE // OPERATOR: IBRAHIM MAHBUB ]
+</pre>
 </p>
 
 <!-- CYBERSECURITY QUOTE RUNTIME WARNING -->
@@ -39,10 +47,13 @@
     "AWS-INTI Ideathon 2025 (1st Runner Up)"
   ]
 }
+```
 
+---
 
-⏳ current_projects_and_objectives
+### ⏳ current_projects_and_objectives
 
+```json
 {
   "academic_focus": "Computing Innovation Project A",
   "in_progress_certifications": [
