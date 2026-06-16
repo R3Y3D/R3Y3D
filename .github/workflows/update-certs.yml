@@ -24,5 +24,5 @@ jobs:
           max_post_count: 15
           template: '<a href="$url" target="_blank"><img src="$description" alt="$title" width="120" style="margin: 5px;"/></a>'
           disable_sort: true
-          # FIX: Overrides the connection header so Credly's CDN permits the connection
+# # FIX: Overrides the connection header so Credly's CDN permits the connection
           accept_header: "text/xml, application/xml, application/rss+xml"
