@@ -20,8 +20,9 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "CERTIFICATIONS-LIST"
-          # Both feeds are chained together separated by a comma
           feed_list: "https://www.credly.com/users/ibrahim-mahbub/badges.rss,https://www.credly.com/users/r4y3d/badges.rss"
           max_post_count: 15
           template: '<a href="$url" target="_blank"><img src="$description" alt="$title" width="120" style="margin: 5px;"/></a>'
           disable_sort: true
+          # FIX: Overrides the connection header so Credly's CDN permits the connection
+          accept_header: "text/xml, application/xml, application/rss+xml"
