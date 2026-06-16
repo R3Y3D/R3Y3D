@@ -24,5 +24,6 @@ jobs:
           max_post_count: 15
           template: '<a href="$url" target="_blank"><img src="$description" alt="$title" width="120" style="margin: 5px;"/></a>'
           disable_sort: true
-# # FIX: Overrides the connection header so Credly's CDN permits the connection
+          # OVERRIDES: Emulates a standard web engine handshake to satisfy Credly's CDN filters
           accept_header: "text/xml, application/xml, application/rss+xml"
+          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
