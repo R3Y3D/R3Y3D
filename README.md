@@ -65,3 +65,11 @@
   ],
   "learning_velocity": "High 🚀"
 }
+```
+
+---
+
+### 🏅 completed_certifications
+
+<!-- CERTIFICATIONS-LIST:START -->
+<!-- CERTIFICATIONS-LIST:END -->
