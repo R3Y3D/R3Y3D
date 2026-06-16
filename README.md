@@ -39,3 +39,16 @@
     "AWS-INTI Ideathon 2025 (1st Runner Up)"
   ]
 }
+
+
+⏳ current_projects_and_objectives
+
+{
+  "academic_focus": "Computing Innovation Project A",
+  "in_progress_certifications": [
+    "Microsoft AI Skills Fest Certifications",
+    "Cisco Ethical Hacking",
+    "Palo Alto Cloud Security Fundamentals"
+  ],
+  "learning_velocity": "High 🚀"
+}
