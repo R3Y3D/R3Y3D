@@ -1,0 +1,27 @@
+name: Dynamic Certification Sync
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Triggers automatically every night at midnight UTC
+  workflow_dispatch: # Allows you to force-run it manually at any time 
+
+permissions:
+  contents: write # Grants the system access to update your README file
+
+jobs:
+  sync-credly-badges:
+    name: Fetching Latest Credentials
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Codebase
+        uses: actions/checkout@v4
+
+      - name: Pull Credly Badge Feed
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "CERTIFICATIONS-LIST"
+          # Both feeds are chained together separated by a comma
+          feed_list: "https://www.credly.com/users/ibrahim-mahbub/badges.rss,https://www.credly.com/users/r4y3d/badges.rss"
+          max_post_count: 15
+          template: '<a href="$url" target="_blank"><img src="$description" alt="$title" width="120" style="margin: 5px;"/></a>'
+          disable_sort: true
