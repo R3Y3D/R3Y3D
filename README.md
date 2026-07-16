@@ -389,7 +389,7 @@ Open To:
   <a href="mailto:ibrahimmahbub2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/r3y3d/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/R3Y3D"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://github.com/R3Y3D"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-1E1B4B?style=for-the-badge&logo=vercel&logoColor=A5B4FC" alt="Portfolio"/></a>
+  <a href="https://r3y3d.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-1E1B4B?style=for-the-badge&logo=vercel&logoColor=A5B4FC" alt="Portfolio"/></a>
 </p>
 
 ---
