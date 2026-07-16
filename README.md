@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/R3Y3D"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-1E1B4B?style=for-the-badge&logo=vercel&logoColor=A5B4FC&labelColor=0B1026" alt="Portfolio"/></a>
+  <a href="https://r3y3d.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-1E1B4B?style=for-the-badge&logo=vercel&logoColor=A5B4FC&labelColor=0B1026" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/r3y3d/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:ibrahimmahbub2005@gmail.com"><img src="https://img.shields.io/badge/Email-ibrahimmahbub2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/R3Y3D"><img src="https://img.shields.io/badge/GitHub-R3Y3D-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
