@@ -335,7 +335,7 @@ Served in leadership for community-driven initiatives, coordinating teams and su
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=R3Y3D&theme=radical&no-frame=true&row=1&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=R3Y3D&theme=radical&no-frame=true&row=1&column=7&margin-w=8&margin-h=8&rank=S,A,B,C" alt="Trophies"/>
 </p>
 
 ---
