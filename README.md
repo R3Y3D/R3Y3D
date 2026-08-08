@@ -323,7 +323,11 @@ Served in leadership for community-driven initiatives, coordinating teams and su
 
 <p align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=R3Y3D&show_icons=true&theme=radical&hide_border=true&bg_color=0B1026&title_color=A5B4FC&icon_color=818CF8&text_color=E0E7FF&ring_color=4F46E5" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-streak-stats.demolab.com/?user=R3Y3D&theme=radical&hide_border=true&background=0B1026&ring=4F46E5&fire=818CF8&currStreakLabel=A5B4FC" alt="GitHub Streak"/>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=R3Y3D&theme=radical&hide_border=true&background=0B1026&ring=4F46E5&fire=818CF8&currStreakLabel=A5B4FC&timezone=Asia%2FKuala_Lumpur" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
