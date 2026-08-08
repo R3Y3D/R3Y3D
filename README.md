@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ibrahim%20Mahbub&fontAlign=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1026,50:312E81,100:1E3A8A&height=220&section=header&text=Ibrahim%20Mahbub&fontSize=48&fontColor=E0E7FF&fontAlignY=35&desc=Cybersecurity%20Engineer%20%C2%B7%20Secure%20Systems%20%26%20Blue%20Team&descAlignY=58&descSize=16" alt="Header" width="100%"/>
 </div>
 
 <p align="center">
@@ -352,7 +352,11 @@ Served in leadership for community-driven initiatives, coordinating teams and su
 ## Contribution Snake
 
 <p align="center">
-  <img alt="snake" src="https://raw.githubusercontent.com/R3Y3D/R3Y3D/output/github-contribution-animation.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/R3Y3D/R3Y3D/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/R3Y3D/R3Y3D/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/R3Y3D/R3Y3D/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -379,25 +383,3 @@ Exploring:
 Open To:
   - Cybersecurity internships
   - SOC / Blue Team opportunities
-```
-
----
-
-## Connect
-
-<p align="center">
-  <a href="mailto:ibrahimmahbub2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/r3y3d/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/R3Y3D"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://r3y3d.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-1E1B4B?style=for-the-badge&logo=vercel&logoColor=A5B4FC" alt="Portfolio"/></a>
-</p>
-
----
-
-<p align="center">
-  <i>"Secure systems are not built by chance — they are engineered with intent."</i>
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:312E81,100:0B1026&height=120&section=footer" alt="footer" width="100%"/>
-</div>
