@@ -311,7 +311,7 @@ Served in leadership for community-driven initiatives, coordinating teams and su
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=R3Y3D&show_icons=true&theme=radical&hide_border=true&bg_color=0B1026&title_color=A5B4FC&icon_color=818CF8&text_color=E0E7FF&ring_color=4F46E5" alt="GitHub Stats"/>
+  <img height="180" src="github-stats-extended.vercel.app/api?username=R3Y3D&show_icons=true&theme=radical&hide_border=true&bg_color=0B1026&title_color=A5B4FC&icon_color=818CF8&text_color=E0E7FF&ring_color=4F46E5" alt="GitHub Stats"/>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -320,7 +320,7 @@ Served in leadership for community-driven initiatives, coordinating teams and su
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=R3Y3D&layout=compact&theme=radical&hide_border=true&bg_color=0B1026&title_color=A5B4FC&text_color=E0E7FF" alt="Top Languages"/>
+  <img height="180" src="github-stats-extended.vercel.app.app/api/top-langs/?username=R3Y3D&layout=compact&theme=radical&hide_border=true&bg_color=0B1026&title_color=A5B4FC&text_color=E0E7FF" alt="Top Languages"/>
 </p>
 
 ---
